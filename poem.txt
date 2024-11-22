@@ -1,8 +1,12 @@
 The Rainbow
 
-color
-color
-color
-color
-color
+Purple
+Pink
+Orange
+Blue
+Green
+Indigo
+Yellow
+Red
+
 this is the color of the rainbow

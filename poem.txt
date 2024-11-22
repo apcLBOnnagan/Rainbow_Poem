@@ -9,4 +9,4 @@ Indigo
 Yellow
 Red
 
-this is the color of the rainbow
+These are the colors of the rainbow.
